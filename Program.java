@@ -4,4 +4,9 @@ public class Program
 	{
 		System.out.println("Hello");
 	}
+	
+	public int sum(int a,int b)
+	{
+		return a + b;
+	}
 }
