@@ -9,4 +9,9 @@ public class Program
 	{
 		return a + b;
 	}
+	
+	public long mul(int a,int b)
+	{
+		return a * b;
+	}
 }
